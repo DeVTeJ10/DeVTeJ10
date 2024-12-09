@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate: on fun projects
 
-⚡ Fun fact: I might never get over imposters syndrome, but i'll always show up.
+⚡ Fun fact: I might never get over imposters syndrome, but I'll always show up.
 
 <!--
 **DeVTeJ10/DeVTeJ10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi there, call me TeJ 👋
 
 📫 How to reach me: tejirioru@gmail.com
@@ -8,6 +9,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeVTeJ10&theme=dark&hide_border=false)](https://git.io/streak-stats)
+</div>
 
 <!--
 **DeVTeJ10/DeVTeJ10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

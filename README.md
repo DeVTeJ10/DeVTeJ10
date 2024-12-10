@@ -6,6 +6,9 @@
 
 ⚡ Fun fact: I might never get over imposters syndrome, but I'll try to always show up.
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeVTeJ10&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **DeVTeJ10/DeVTeJ10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

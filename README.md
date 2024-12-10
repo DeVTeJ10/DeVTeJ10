@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact I love anime
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeVTeJ10&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 

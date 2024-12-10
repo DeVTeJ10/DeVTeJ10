@@ -1,11 +1,13 @@
 <div align="center">
-## Hi there, call me TeJ 👋
+ <h1>Hi there 👋, call me TeJ </h1>
 
 📫 How to reach me: tejirioru@gmail.com
 
 👯 I’m looking to collaborate: on fun projects
 
 ⚡ Fun fact: I might never get over imposters syndrome, but I'll try to always show up.
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeVTeJ10&theme=dark&hide_border=false)](https://git.io/streak-stats)

@@ -5,7 +5,6 @@
 
 👯 I’m looking to collaborate: on fun projects
 
-⚡ Fun fact: I might never get over imposters syndrome, but I'll try to always show up.
 
 
 
